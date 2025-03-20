@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">HERE ARE MY CERTIFICATES<br>⋆ ---––——––------––——––--- ⋆</h2>
+<h2 align="left">HERE ARE MY CERTIFICATES AND PROJECTS<br>⋆ ---––——––------––——––--- ⋆</h2>
 
 ###
 
