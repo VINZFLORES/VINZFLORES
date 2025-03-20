@@ -26,7 +26,11 @@
 
 ###
 
-<p align="left">https://drive.google.com/drive/folders/1CpbCf3W2SD-xjExfbKlqwoNQAzXAWQMZ?usp=drive_link</p>
+<p align="left">
+  <a href="https://drive.google.com/drive/folders/1CpbCf3W2SD-xjExfbKlqwoNQAzXAWQMZ?usp=drive_link">
+    Click here to view my certificates and projects
+  </a>
+</p>
 
 ###
 
@@ -55,3 +59,4 @@
 <img align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2Q3eDA3eTZ3bXZnaDltMDdrZDdjMWw2ZzVxNzI2eWdhZWJyejJ6YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oz8xIsloV7zOmt81G/giphy.gif"  />
 
 ###
+
