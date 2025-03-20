@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">https://malayancollegesmindanaoo365-my.sharepoint.com/my?id=%2Fpersonal%2Fvdflores%5Fmcm%5Fedu%5Fph%2FDocuments%2FLINKEDIN%20LEARNING%20CERTIFICATES&ga=1</p>
+<p align="left">https://drive.google.com/drive/folders/1CpbCf3W2SD-xjExfbKlqwoNQAzXAWQMZ?usp=drive_link</p>
 
 ###
 
